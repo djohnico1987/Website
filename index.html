@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<!-- {% assign pages = (site.pages | sort: 'pdate') %}
+{% for page in pages reversed %}
+  {% if page.category contains 'project' %}
+
+
+    <a href="{{ page.url | relative_url }}">
+    <img class="media-zoom fade-in responsive" src="{{page.imgDir}}/splash.png" alt="{{page.title}} splash image">
+    </a>
+
+  {% endif %}
+{% endfor %} -->
+
+
+<!-- {% for image in site.static_files %}
+    {% if image.path contains 'img/vfx' %}
+        <img class="media-zoom fade-in responsive"  src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
+ -->
+
+ <!-- <video autoplay preload="auto" loop muted plays-inline class="media-zoom fade-in responsive vidLoop">
+  <source src="Daniel VFX Reel.mp4" type="video/mp4">
+</video>   -->
+
+
+<div class="container">
+  <div class="video-banner ">
+    <video autoplay loop class="video-background responsive" muted plays-inline>
+      <source src="Daniel VFX Reel.mp4" type="video/mp4">
+    </video>
+  
+    <div class="Banner-Text-Container">
+      <img class="portrait-main media-zoom" src="{{ "/img/portrait.png" | prepend: site.baseurl }}" alt="">
+      <div class="Banner-Text"><span style="color:#e8cc3e">Daniel Johnico</span></div>
+      <div class="Banner-Text-Info">Wichita University Student Majoring in Game Design</div>
+      <!-- <div class="Banner-Text">Wichita State University</div> -->
+    
+      <div class="Banner-Sub-Text">Learning all the latest technologies in the game development world</div>
+    
+      <!-- <div class="ghost-btn" style="cursor: pointer;" onclick="location.href='https://discord.gg/AFg8f7C';" >Join</div> -->
+    </div>
+</div>
+

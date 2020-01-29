@@ -1,0 +1,29 @@
+I"�<h1 id="ludum-dare-37--the-rpg-shop">Ludum Dare 37:  The RPG Shop</h1>
+
+<iframe width="940" height="500" src="https://www.youtube-nocookie.com/embed/ug9V-eRB9Cw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+
+<div class="content-spacing"></div>
+<div class="content-spacing"></div>
+
+<p><img src="/img/projects/ld37/1.png" alt="Picture" />
+Here comes another Ludam Dare :) . This is a project I worked on for the Ludum Dare 37 with the theme of “One Room”. Here it is a management game where you buy and put things on the tables to sell your goods at higher prices from the supplier :P</p>
+
+<p><img src="/img/projects/ld37/2.png" alt="Picture" />
+I unfortunately didn’t go through my entire list of ToDo’s: http://pastebin.com/A79gSzT1 There were no animations added, and there where a lot of features programmed (personalites, occupaction, age, ect) that was not in the final build. But that is the nature of programming in ludum dare.</p>
+
+<p><img src="/img/projects/ld37/3.png" alt="Picture" />
+But it works quite well (aside from the web version), just doesn’t have an end goal, but still a fun concept.</p>
+
+<p><img src="/img/projects/ld37/4.png" alt="Picture" />
+I unfortunately didn’t go through my entire list of ToDo’s: http://pastebin.com/A79gSzT1 There were no animations added, and there where a lot of features programmed (personalites, occupaction, age, ect) that was not in the final build. But that is the nature of programming in ludum dare.</p>
+
+<p>From this Ludam Dare, I’ve learned a very important lesson. Don’t spend time planning for most of the jam (woops) and don’t write useless unwanted code. I’ve programmed a lot of things for the AI that didn’t get used. I need to prioritize the base game then add all the goodies later.</p>
+
+<h2 id="links">Links</h2>
+
+<p>Timelapse: <a href="https://youtu.be/ug9V-eRB9Cw">https://youtu.be/ug9V-eRB9Cw</a></p>
+
+<p>Game: <a href="http://ludumdare.com/compo/ludum-dare-36/?action=preview&amp;uid=113497">http://ludumdare.com/compo/ludum-dare-36/?action=preview&amp;uid=113497</a></p>
+
+<p>itch.io: <a href="https://glauz.itch.io/the-rpg-shop">https://glauz.itch.io/the-rpg-shop</a></p>
+:ET

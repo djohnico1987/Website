@@ -1,0 +1,77 @@
+<div class="sidenav">
+
+    <div class="sidenav-container"></div>
+    <!-- <a href="{{site.url}}">         -->
+        <img class="portrait media-zoom" src="{{ "/img/portrait.png" | prepend: site.baseurl }}" alt="">
+    <!-- </a> -->
+
+        <div class="name">Daniel Johnico</div>     
+    
+        <nav>
+            <a href="{{site.url}}">About</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="resume.pdf">Resume</a>
+            <!-- <a href="{{ "index.html" | prepend: site.baseurl }}">Posts</a> -->
+            <!-- <a href="/videos.html">Videos</a> -->
+        </nav>
+    
+        <div class="contact-container">
+            <!-- <i class="fab fa-facebook"></i> -->
+            <!-- <a href="https://www.w3schools.com">
+            <i class="contact-icon icon-zoom fab fa-youtube"></i>
+            </a> -->
+
+            <a href="https://github.com/djohnico1987">
+                <i class="contact-icon icon-zoom fab fa-github"></i>
+            </a>
+
+            <a href="https://twitter.com/DanielJohnico">
+                <i class="contact-icon icon-zoom fab fa-twitter"></i>
+            </a>
+
+            <a href="https://daniel-johnico.itch.io/">
+                <i class="contact-icon icon-zoom fab fa-itch-io"></i>
+            </a>
+
+            <!-- <i class="contact-icon icon-zoom fab fa-twitter"></i>
+            <i class="contact-icon icon-zoom fab fa-linkedin"></i>
+            <i class="contact-icon icon-zoom fas fa-envelope"></i>
+            <i class="contact-icon icon-zoom fab fa-discord"></i>
+            <i class="contact-icon icon-zoom fab fa-itch-io"></i> -->
+        </div>
+    
+        <!-- ***** TAG LIST ***** -->
+        <div class="red-linebreak"></div>
+    
+        <div class="tag-container">
+            <div class="tag">Houdini</div>
+            <div class="tag">VFX</div>
+            <div class="tag">Unreal</div>
+            <div class="tag">Unity3D</div>
+            <div class="tag">C#</div>
+            <div class="tag">Photoshop</div>
+            <div class="tag">ZBrush</div>
+    
+            <!--TAGS LOOP-->
+            
+            <!-- {% assign pages = (site.pages | sort: 'pdate') %}
+            {% for page in pages reversed %}
+              {% if page.category contains 'project' %}
+    
+    
+                {% for tags in page.tags %}
+    
+                    <div class="tag">{{ tags }}</div>
+    
+                {% endfor %}
+      
+              {% endif %}
+            {% endfor %} -->
+    
+    
+            
+        </div> 
+        <!-- Tag List -->
+    </div>
+
+</div>
