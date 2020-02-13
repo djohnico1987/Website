@@ -1,1 +1,1 @@
-My static website created with jekyll: https://glauz.github.io/
+Custom Jekyll Website made for a friend
